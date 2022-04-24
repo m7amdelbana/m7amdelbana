@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Top technologies at Mobile**
 
-- 👨🏻‍💻 Ex - Engineer at **Intcore, MaxyCode, Pan Arab Media, Perceptive Minds, XDev**
+- 👨🏻‍💻 Ex - Engineer at **Intcore, MaxyCode, Pan Arab Media, Perceptive Minds, and XDev**
 
 - 👨‍💻 All of my info are available at [LinkedIn](https://www.linkedin.com/in/mohamed-elbana-a5a214ab)
 
