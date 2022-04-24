@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elbana</h1>
-<h3 align="center">A passionate Mobile Applications Engineer (iOS/Android/Flutter) from Egypt</h3>
+<h1 align="left">Hi 👋, I'm Mohamed Elbana</h1>
+<h3 align="left">A passionate Mobile Applications Engineer (iOS/Android/Flutter) from Egypt</h3>
 
 - 🔭 I’m currently working at [Orcas](https://www.orcas.io)
 
